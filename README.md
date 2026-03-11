@@ -45,6 +45,18 @@ The dashboard combines multiple parameters such as:
 Through interactive charts and filters, the dashboard allows users to quickly identify potential risk zones and understand how crowd behaviour changes over time.
 
 ---
+## Dashboard Preview
+
+### Page 1 – Event Safety Overview
+![Event Safety Overview](overview_dashboard.png)
+
+### Page 2 – Crowd Risk Analysis
+![Crowd Risk Analysis](crowd_risk_analysis.png)
+
+### Page 3 – Security & Environmental Monitoring
+![Security Monitoring](security_environment_monitoring.png)
+
+---
 
 ## Dataset Description
 
