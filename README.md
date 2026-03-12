@@ -58,27 +58,6 @@ Through interactive charts and filters, the dashboard allows users to quickly id
 
 ---
 
-## Dataset Description
-
-The dataset used in this project represents simulated monitoring data from public events.
-
-| Column | Description |
-|------|-------------|
-| Event_ID | Unique identifier for the event |
-| Event_Name | Name of the public event |
-| Date / Time | Timestamp of the recorded observation |
-| Zone | Specific area within the event venue |
-| Crowd_Count | Number of people present in the zone |
-| Entry_Count | Number of people entering the zone |
-| Exit_Count | Number of people leaving the zone |
-| Medical_Incidents | Number of medical emergencies reported |
-| Security_Alerts | Number of security alerts detected |
-| Police_Deployed | Number of police officers deployed |
-| Weather | Weather conditions during the event |
-| Temperature | Environmental temperature |
-
----
-
 ## Dashboard Structure
 
 ### Page 1 – Event Safety Overview
@@ -112,6 +91,26 @@ The dataset used in this project represents simulated monitoring data from publi
 - Temperature Trend During Event  
 - Crowd vs Temperature Analysis  
 - Weather Distribution of Crowd  
+
+---
+## Dataset Description
+
+The dataset used in this project represents simulated monitoring data from public events.
+
+| Column | Description |
+|------|-------------|
+| Event_ID | Unique identifier for the event |
+| Event_Name | Name of the public event |
+| Date / Time | Timestamp of the recorded observation |
+| Zone | Specific area within the event venue |
+| Crowd_Count | Number of people present in the zone |
+| Entry_Count | Number of people entering the zone |
+| Exit_Count | Number of people leaving the zone |
+| Medical_Incidents | Number of medical emergencies reported |
+| Security_Alerts | Number of security alerts detected |
+| Police_Deployed | Number of police officers deployed |
+| Weather | Weather conditions during the event |
+| Temperature | Environmental temperature |
 
 ---
 
