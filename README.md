@@ -48,13 +48,13 @@ Through interactive charts and filters, the dashboard allows users to quickly id
 ## Dashboard Preview
 
 ### Page 1 – Event Safety Overview
-![Event Safety Overview](overview_dashboard.png)
+![Event Safety Overview](Power%20BI/overview_dashboard.png)
 
 ### Page 2 – Crowd Risk Analysis
-![Crowd Risk Analysis](crowd_risk_analysis.png)
+![Crowd Risk Analysis](Power%20BI/crowd_risk_analysis.png)
 
 ### Page 3 – Security & Environmental Monitoring
-![Security Monitoring](security_environment_monitoring.png)
+![Security Monitoring](Power%20BI/security_environment_monitoring.png)
 
 ---
 
